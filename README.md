@@ -4,8 +4,11 @@ These are the steps used to create a basic OpenVPN Docker Container using the do
 Droplet Login: 
 
 Droplet Name: ubuntu-vpn-server-512mb-nyc1-01
+
 IP Address: 67.205.186.47
+
 Username: root
+
 Password: de0af744b5945123
 
 ##Create Server on Digital Ocean 
